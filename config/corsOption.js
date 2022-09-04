@@ -1,6 +1,7 @@
 const whitelist = [
   "http://localhost:3000",
   "https://food-order-26gkjn3dg-mtanash.vercel.app",
+  "https://food-order-app-mtanash.vercel.app",
 ];
 const corsOption = {
   origin: (origin, callback) => {
